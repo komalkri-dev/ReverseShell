@@ -1,6 +1,6 @@
 # Reverse Shell
 
-Reverse shell built a connection between server and client. You can be able to execute any command on client host.
+Reverse shell built a connection between server and client. You are able to execute any command on client host from server.
 
 # server.py
 
